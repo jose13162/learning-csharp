@@ -42,7 +42,5 @@ class Numbers {
         Console.WriteLine("{0} x {1} = {2}", first_number, second_number, result);
       }
     }
-
-
   }
 }
